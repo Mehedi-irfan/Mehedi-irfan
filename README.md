@@ -1,7 +1,7 @@
-<img src="https://t3.ftcdn.net/jpg/02/24/86/92/360_F_224869243_WZHOVD3GqYq6ZUzRkZbQNTXzg1FzHwhd.jpg" />
+<img src="https://t3.ftcdn.net/jpg/02/24/86/92/360_F_224869243_WZHOVD3GqYq6ZUzRkZbQNTXzg1FzHwhd.jpg" width="100%" />
 <h1 align="center">Hi 👋, I'm MD Mehedi Hasan</h1>
 <h3 align="center">A passionate front-end developer from Bangladesh</h3>
-<img src='https://st2.depositphotos.com/1802620/7621/v/600/depositphotos_76219969-stock-illustration-online-shopping-flat-concept.jpg' width="400px" height="400px" />
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehedi-irfan&label=Profile%20views&color=0e75b6&style=flat" alt="mehedi-irfan" /> </p>
 
